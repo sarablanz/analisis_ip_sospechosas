@@ -1,0 +1,3 @@
+**Agrega solo la carpeta que quieres subir:**
+```bash
+git add analisis_ip_sospechosas/
