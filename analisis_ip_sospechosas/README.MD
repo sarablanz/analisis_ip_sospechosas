@@ -2,8 +2,6 @@
 
 El objetivo es visualizar de manera sencilla los intentos de acceso fallidos en el sistema, identificando las IPs con más errores.
 
-![Top 5 IPs – Errores de acceso](./top5_ips_errores.png)
-
 ## ¿Qué muestra este dashboard?
 
 - **Ranking de las 5 IPs con más errores de acceso**
