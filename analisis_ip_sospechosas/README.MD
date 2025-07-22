@@ -21,10 +21,6 @@ Como criminóloga y estudiante de ciberseguridad, aprender a detectar patrones d
 - Los datos se analizaron con Python y se graficaron usando matplotlib.
 - El dashboard está adaptado para mostrar los errores de manera clara y visual.
 
-## Sobre mí
-
-Este trabajo forma parte de mi curso de 8 semanas en ciberseguridad. Todavía soy junior y sigo aprendiendo, pero este proyecto me ayuda a aplicar conceptos de análisis de datos y criminología en el área digital.
-
 ---
 
 
