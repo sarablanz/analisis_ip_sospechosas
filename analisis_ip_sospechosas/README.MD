@@ -30,4 +30,4 @@ Este trabajo forma parte de mi curso de 8 semanas en ciberseguridad. Todavía so
 ---
 
 
-*Proyecto realizado por Sarablanz – Curso Junior de Ciberseguridad para Criminólogas.*
+*Proyecto realizado por Sarablanz – Curso Junior de Ciberseguridad para Criminólog@s.*
